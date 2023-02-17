@@ -9,6 +9,8 @@ set the updates to the new temp branch. ->
 git add . && git commit -m "e.g. Actualizando el branch con progreso Modulo 1"
 push to the server -> git push
 
+After the push a new branch will be seen in the github web, from there one needs to review the pull and merge and erase the temp branch.
+
 
 
 
