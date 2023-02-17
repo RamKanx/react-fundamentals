@@ -1,3 +1,19 @@
+## Notes on GitHub file management.
+Create personal repo online, -> git clone <"link here">
+
+Check the branches. -> git branch--list
+Make a new branch for unpdates-> git branch moduleXUpdate
+Switch to the other branch. -> git switch moduleXUpdate
+normal work
+set the updates to the new temp branch. -> 
+git add . && git commit -m "e.g. Actualizando el branch con progreso Modulo 1"
+push to the server -> git push
+
+
+
+
+
+
 <div>
   <h1 align="center"><a href="https://epicreact.dev/fundamentals">React Fundamentals 🚀 EpicReact.Dev</a></h1>
   <strong>
